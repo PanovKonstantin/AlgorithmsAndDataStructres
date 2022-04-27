@@ -1,0 +1,11 @@
+                        Naïve search                    Boyer Moore search
+Time for 100 elements:  11,2396516                      11,1876738
+Time for 200 elements:  23,3322389                      23,421836500000005
+Time for 300 elements:  35,8912785                      33,982494999999986
+Time for 400 elements:  45,54186349999998               45,239357900000016
+Time for 500 elements:  55,89787370000002               57,37264929999998
+Time for 600 elements:  65,6873544                      67,14358440000001
+Time for 700 elements:  82,84272900000002               81,31961710000007
+Time for 800 elements:  99,22971419999999               92,34184640000001
+Time for 900 elements:  103,65229790000001              109,47831469999994
+Time for 1000 elements: 113,86877649999997              115,45309040000006
